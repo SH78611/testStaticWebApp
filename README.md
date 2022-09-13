@@ -1,0 +1,2 @@
+# testStaticWebApp
+testStaticWebApp

@@ -1,4 +1,6 @@
 {
-    "route": "/calendar*",
-    "rewrite": "/calendar.html"
+    "routes": [{
+        "route": "/calendar*",
+        "rewrite": "/calendar.html"
+    }]
 }
